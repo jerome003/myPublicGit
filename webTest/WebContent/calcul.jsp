@@ -26,7 +26,7 @@
 %>
 	<h1>Result is <%= k %></h1>
 	
-	<a href="index.jsp">retour a la page de calcul</a>
+	<a href="index.jsp">Faire un nouveau calcul</a>
 
 </body>
 </html>
