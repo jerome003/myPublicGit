@@ -15,7 +15,7 @@
 	String str = request.getParameter("a1");
 	if (str.equals("add")) {
 		k = i+j;
-	}else if(str.equals("mul")) {
+	}else if(str.equals("mul") ) {
 		k = i*j;
 	}else if(str.equals("div")) {
 		k = i/j;
