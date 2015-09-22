@@ -1,0 +1,5 @@
+INDEX VERSION 1.127+/home/m2miage/delporte/Documents/git/ta2015/.metadata/.plugins/org.eclipse.jdt.core
+2152125967.index
+4127261370.index
+310413675.index
+2390357468.index

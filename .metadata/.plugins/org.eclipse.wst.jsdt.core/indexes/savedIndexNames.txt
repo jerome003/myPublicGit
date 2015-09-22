@@ -1,0 +1,3 @@
+INDEX VERSION 1.3+/home/m2miage/delporte/Documents/git/ta2015/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+310413675.index
+2390357468.index
